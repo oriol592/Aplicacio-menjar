@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Si se li treu l'atribut parent deixa de funcionar -->
+    <style name="elMeuTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBarraSuperior</item>
+        <item name="colorPrimaryDark">@color/colorBarrraNomApp</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="estilBoto">
+        <item name="android:background">@color/colorFonsBoto</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="colorFonsSuau">
+        <item name="android:background">@color/colorFonsGrocClar</item>
+    </style>
+
+</resources>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Com crear aquest fitxer, font: http://thegenericwhiz.com/create-menu-resource-directory-android-studio/ -->
+    <item
+        android:id="@+id/botoFletxa"
+        android:icon="@drawable/fletxa"
+        android:title="@string/fraseBotoFletxa"
+        app:showAsAction="ifRoom"/>
+
+</menu>

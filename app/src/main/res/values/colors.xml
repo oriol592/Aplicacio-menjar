@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBarraSuperior">#ab000d</color>
+    <color name="colorBarrraNomApp">#e53935</color>
+    <color name="colorFonsBoto">#ffc107</color>
+    <color name="colorFonsGrocClar">#fff59d</color>
+</resources>

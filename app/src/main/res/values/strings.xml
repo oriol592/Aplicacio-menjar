@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nyam</string>
+    <string name="titol_app">Nyam! App</string>
+    <string name="recollir_local">Recollir al local</string>
+    <string name="a_domicili">A domicili</string>
+    <string name="extra_formatge">Afegir extra de formatge</string>
+    <string name="quantitat">Quantitat</string>
+    <string name="botoComprar">Comprar</string>
+    <string-array name="quantitat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="fraseBotoFletxa">Anar a altra activity</string>
+    <string name="simbol_euro">€</string>
+
+</resources>
